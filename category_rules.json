@@ -1,0 +1,7 @@
+{
+  "Food": ["restaurant", "zomato", "swiggy", "pizza", "meal"],
+  "Travel": ["uber", "ola", "flight", "train", "bus"],
+  "Shopping": ["amazon", "flipkart", "store", "mall"],
+  "Groceries": ["market", "grocery", "vegetable", "milk"],
+  "Bills": ["electricity", "water", "internet", "recharge"]
+}
